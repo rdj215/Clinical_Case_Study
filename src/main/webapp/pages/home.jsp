@@ -8,7 +8,7 @@
 </head>
 <body>
 ${study.studyName}: ${study.studyId}
-<form action="addUser">
+<form action="addStudy">
     <input type="text" name="username"><br>
     <input type="text" name="password"><br>
     <input type="submit"><br>
